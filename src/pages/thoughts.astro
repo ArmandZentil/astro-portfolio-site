@@ -1,7 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Sidebar from "../components/landing/Sidebar.astro";
-import Lightroom from "../components/landing/Lightroom.astro";
+import ThoughtsContent from "../components/thoughts/ThoughtsContent.astro";
 import { AstroSeo } from "@astrolib/seo";
 ---
 
@@ -9,7 +9,7 @@ import { AstroSeo } from "@astrolib/seo";
 Use AstroSeo in all the pages you want different Seo than the index page
 -->
 <AstroSeo
-  title="Home"
+  title="Thoughst"
   description="Your site or page description goes here"
   canonical="https://www.supremeuikits.com"
   openGraph={{
@@ -46,7 +46,7 @@ Use AstroSeo in all the pages you want different Seo than the index page
   <div class="2xl:max-w-7xl mx-auto">
     <div class="grid grid-cols-1 lg:grid-cols-4">
       <Sidebar />
-      <Lightroom />
+      <ThoughtsContent />
     </div>
   </div>
 </BaseLayout>

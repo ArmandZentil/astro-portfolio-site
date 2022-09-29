@@ -85,11 +85,8 @@ module.exports = {
       ],
     },
     extend: {
-      backgroundImage: (theme) => ({
-        screens: "url('/path-to/image.png')",
-      }),
-
       colors: {
+        black:"#1b1d20",
         "accent": {
           "50": "#E5E5FF",
           "100": "#CCCCFF",
@@ -105,6 +102,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ["Inter", ...defaultTheme.fontFamily.sans],
+        
       },
     },
   },
