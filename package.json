@@ -11,10 +11,10 @@
   },
   "devDependencies": {
     "@astrojs/image": "^0.13.0",
-    "@astrojs/tailwind": "^3.0.0",
+    "@astrojs/tailwind": "^3.1.1",
     "@tailwindcss/typography": "^0.5.7",
     "@types/alpinejs": "^3.7.0",
-    "astro": "^2.0.2"
+    "astro": "^2.2.3"
   },
   "dependencies": {
     "@astrojs/sitemap": "^1.0.0",
