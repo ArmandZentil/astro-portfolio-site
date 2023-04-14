@@ -86,7 +86,7 @@ module.exports = {
     },
     extend: {
       colors: {
-        black:"#1b1d20",
+        black:"#222222",
         "accent": {
           "50": "#E5E5FF",
           "100": "#CCCCFF",
