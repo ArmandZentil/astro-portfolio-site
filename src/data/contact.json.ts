@@ -9,9 +9,9 @@ const one: Template = {
   title: "armandzentil@gmail.com",
 };
 const two: Template = {
-link: "https://twitter.com/kryptoUnikorn",
-    type: "Twitter",
-  title: "KryptoUnikorn",
+link: "https://www.instagram.com/armand.zentil/",
+    type: "Instagram",
+  title: "armand.zentil",
 };
 const three: Template = {
 link: "https://www.linkedin.com/in/armand-zentil-192b70234/",
