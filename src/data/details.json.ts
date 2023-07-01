@@ -5,7 +5,7 @@ export interface Template {
   date: string;
 };
 const one: Template = {
-  link: "https://searchyellowdirectory.com",
+  link: "https://s****************y.com",
   title: "Owner, Developer, SYD.com",
   location: "Los Angeles, CA",
   date: "28.09.2017 - Current",
